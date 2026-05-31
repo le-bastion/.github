@@ -27,3 +27,8 @@ Toutes les briques technologiques forgées dans **Le Bastion** partagent un socl
 *   **Sécurité *By-Design* :** Immunité structurelle contre les fuites de données cloud et l'espionnage industriel.
 *   **Résilience absolue :** Capacité à éditer et consulter des documents classifiés sans aucune connexion internet.
 *   **Conformité RGPD native :** L'absence de traitement de données externalisé supprime les complexités juridiques internationales (Cloud Act).
+
+
+<div align="center">
+  <i>Développé avec exigence en France.</i>
+</div>
