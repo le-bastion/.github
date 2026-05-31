@@ -29,6 +29,9 @@ Toutes les briques technologiques forgées dans **Le Bastion** partagent un socl
 *   **Conformité RGPD native :** L'absence de traitement de données externalisé supprime les complexités juridiques internationales (Cloud Act).
 
 
+</br>
+</br>
+
 <div align="center">
   <i>Développé avec exigence en France.</i>
 </div>
